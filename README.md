@@ -12,5 +12,6 @@ To run this application locally do following things
     $ pip install -r requirements.txt
     $ python manage.py makemigrations
     $ python manage.py migrate
+    $ python manage.py populate_db
     $ python manage.py runserver
 ```
